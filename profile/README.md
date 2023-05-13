@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/quarashi-network/.github/main/profile/logo-quarashi.png" />
 
-## Interconnecting Blockchain Adopters Worldwide
+## One Platform Different Core Components - Interconnecting Blockchain Adopters Worldwide
 
 Welcome to our GitHub Organization for our All-In-One Crypto Platform!
 
@@ -8,13 +8,11 @@ Our Team is dedicated to building a user-friendly, versatile platform that simpl
 
 The Team is made up of experienced developers, blockchain experts, and passionate crypto enthusiasts. Together, we strive to create a product that meets the needs of both experienced users and newcomers to the space.
 
-### WHAT IS QUARASHI?
+## WHAT IS QUARASHI?
 
 ZERO-DATA-COLLECTION Web3 project aiming to symbolize decentralized finance's future (DeFi). Innovative architecture that facilitates a secure, open, and decentralized environment. Anonymous and private, with a focus on community for full freedom and individual confidentiality.
 
-### One Platform Different Core Components
-
-#### 1. Multi-Chain Crypto Assets Manager Non-Custodial
+## 1. Multi-Chain Crypto Assets Manager Non-Custodial
 
 Store & Manage Over 20000 Cryptos, NFT support, with more than 40 chains supported
 
@@ -24,7 +22,7 @@ Quarashi Assets Manager is an entry point to the world of cryptocurrencies and d
 * Self-managed private key encrypted storage
 * Easy-to-navigate, user-friendly interface
 
-#### 2. Peer-to-peer Chat
+## 2. Peer-to-peer Chat
 
 HOW MUCH DO YOU VALUE YOUR PRIVACY ?
 
@@ -38,9 +36,9 @@ Confidential - 100% Anonymous - 100% Privacy
 * Fully Encrypted End-to-End
 * Censorship Resistance
 
-#### 3. VPN & Incognito Browser
+## 3. VPN & Incognito Browser
 
-##### VPN Layer 2 Encryption
+#### VPN Layer 2 Encryption
 
 VPN users benefit from anonymity and privacy thanks to the encrypted tunnel between their devices and the VPN server, which is inaccessible to anyone with malicious intent.
 
@@ -50,7 +48,7 @@ Quarashi VPN uses Advanced Encryption Standards, also encrypts your traffic betw
 * Provides network scalability
 * Strong Encryption
 
-##### Incognito Browser
+#### Incognito Browser
 
 In Quarashi Browser none of your browsing history, cookies and site data,  or information entered in forms are saved on your device.
 The browser creates a temporary session that is isolated from the browser's main session and user data.
@@ -62,7 +60,7 @@ Equipped with built-in ad-blocking functionality.
 * No Browsing History
 * No Data Collecting
 
-#### 4. Swap
+## 4. Swap
 
 Decentralized - Control Over your Funds
 
@@ -70,7 +68,7 @@ Allows users to swap cryptocurrencies by finding the most optimum route between 
 Because users don't have to transfer their assets to an exchange, decentralized exchanges can reduce risks of theft and loss of funds due to hacks.
 Due to their nature of allowing for the peer-to-peer exchange of cryptocurrencies, decentralized exchanges prevent market manipulation.
 
-#### 5. Airdrops
+## 5. Airdrops
 
 Create your own Airdrops Campaigns
 Get Free Tokens - No Risk - Increased Value
@@ -85,7 +83,7 @@ In a crypto airdrop, a new crypto project gives cryptocurrency to new users for 
 * Learn & earn by joining airdrops
 * Creating crypto communities from scratch
 
-#### 6. Launchpad - IDO
+## 6. Launchpad - IDO
 
 Create your own IDO Fundraising Campaigns
 Fair Fundraising - Fast Trading - Immediate Liquidity
