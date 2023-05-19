@@ -1,6 +1,8 @@
 <img src="https://raw.githubusercontent.com/quarashi-network/.github/main/profile/logo-quarashi.png" />
 
-## One Platform Different Core Components - Interconnecting Blockchain Adopters Worldwide
+# The Next Generation All in One Platform
+
+#### One Platform Different Core Components - Interconnecting Blockchain Adopters Worldwide
 
 Welcome to our GitHub Organization for our All-In-One Crypto Platform!
 
